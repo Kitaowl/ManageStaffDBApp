@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/ViewModel/">
+    <File Path="DataManageVM.cs" />
+  </Folder>
+  <Project Path="#.csproj" Id="f94c2601-7477-4355-91de-387fead269f8" />
+</Solution>
