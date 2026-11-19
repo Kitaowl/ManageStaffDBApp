@@ -9,7 +9,7 @@ namespace ManageStaffDBApp.Model
     internal class Department
     {
         public int Id { get; set; }
-        public int Name { get; set; }
+        public string Name { get; set; }
         public List<Position> Positions { get; set; }
     }
 }
